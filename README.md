@@ -1,2 +1,2 @@
-# my-markdown-note-java
-个人笔记~ 暂时先这样放
+## :notebook: Java的相关个人笔记
+暂时先这样放~
